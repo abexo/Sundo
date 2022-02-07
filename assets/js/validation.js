@@ -70,7 +70,6 @@ validation
         current.text(characterCount);
        
         
-        /*This isn't entirely necessary, just playin around*/
         if (characterCount < 70) {
           current.css('color', '#666');
         }
